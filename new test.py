@@ -1,19 +1,6 @@
 # MOTHERFUCKER RR-KIDS
 # YOUR REAL DAD SAKIN
 # Don'T Ablami With Me
-
-
-import requests
- import bs4
-import json
-import os
-import sys
-import random
-import rich
-import base64
-import uuid
-import subprocess
-from concurrent.futures import ThreadPoolExecutor
 import requests,bs4,uuid,json,os,sys,random,datetime,time,re,subprocess
 from rich.table import Table as me
 from rich.console import Console as sol
